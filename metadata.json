@@ -1,0 +1,6 @@
+{
+  "name": "Assistente de Compras",
+  "description": "Organize seu carrinho de supermercado, evite esquecimentos separando produtos por corredores, e acompanhe seus gastos em tempo real com a calculadora de limite integrada.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
